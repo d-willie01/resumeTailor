@@ -1,0 +1,70 @@
+{
+  "name": "Darius Williams",
+  "title": "Help Desk Technician | IT Support Specialist",
+  "contact": {
+    "email": "dariusw0325@gmail.com",
+    "phone": "520-440-7433",
+    "location": "Phoenix, AZ",
+    "linkedin": "www.linkedin.com/in/dariuswilliamsprofile"
+  },
+  "summary": "Reliable and customer-focused Help Desk Technician with 4+ years of experience providing phone and email support, resolving technical issues, and documenting ticket details. Skilled at troubleshooting Windows environments, explaining tech concepts to non-technical users, and ensuring excellent service quality. Flexible, self-motivated, and experienced with late-shift and fast-paced support environments. Currently completing a B.S. in Bioinformatics with a focus on systems support.",
+  "education": [
+    {
+      "degree": "A.S. in Information Technology",
+      "institution": "Pima Community College",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "B.S. in Bioinformatics",
+      "institution": "Arizona State University",
+      "graduation_year": "Expected 2026"
+    }
+  ],
+  "experience": [
+    {
+      "position": "IT Support Technician",
+      "company": "Paira",
+      "start_date": "2020",
+      "end_date": "2022",
+      "bullets": [
+        "Handled incoming support requests via phone, email, and ticketing system for internal and client users",
+        "Assisted users with login issues, app errors, and system access problems",
+        "Followed SOPs to troubleshoot issues or escalate when needed",
+        "Logged accurate ticket notes and follow-up updates"
+      ],
+      "technologies": ["CRM Tools", "Service Desk Software", "Windows OS"]
+    },
+    {
+      "position": "IT Support & Data Entry Assistant",
+      "company": "Holiday Inn & Suites",
+      "start_date": "2022",
+      "end_date": "2024",
+      "bullets": [
+        "Provided frontline desktop support for staff, including troubleshooting Windows PCs, printers, and Office apps",
+        "Assisted with password resets, printer issues, and email support",
+        "Created scripts and Excel macros to reduce repetitive manual tasks",
+        "Tracked and updated support requests and user issues in logs"
+      ],
+      "technologies": ["Windows OS", "Excel", "Microsoft Office", "Printers & Peripherals"]
+    },
+    {
+      "position": "Help Desk Technician",
+      "company": "Carvana",
+      "start_date": "2024",
+      "end_date": "Present",
+      "bullets": [
+        "Resolved over 200 support tickets involving password resets, VPN, hardware issues, and user onboarding",
+        "Supported employees during evening and weekend shifts via phone and email",
+        "Maintained detailed logs for each ticket using ServiceNow",
+        "Collaborated with senior techs to escalate and resolve more advanced issues"
+      ],
+      "technologies": ["ServiceNow", "Active Directory", "Windows OS", "JAMF", "Basic Networking"]
+    }
+  ],
+  "skills": {
+    "Technical Support": ["Windows OS", "Thin Clients", "Microsoft Office", "Printers & Peripherals"],
+    "Tools": ["ServiceNow", "CRM Software", "Remote Desktop", "Ticketing Systems"],
+    "Soft Skills": ["Clear Communication", "Customer Service", "Documentation", "Problem Solving", "Team Collaboration"],
+    "Other": ["Late-Shift Support", "Remote Troubleshooting", "Basic Scripting", "Self-Starter"]
+  }
+}

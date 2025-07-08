@@ -1,0 +1,73 @@
+{
+  "name": "Darius Williams",
+  "title": "Fullstack Developer | Technical Intern",
+  "contact": {
+    "email": "dariusw0325@gmail.com",
+    "phone": "520-440-7433",
+    "location": "Phoenix, AZ",
+    "linkedin": "www.linkedin.com/in/dariuswilliamsprofile"
+  },
+  "summary": "Resourceful Fullstack Developer with 4+ years of experience building scalable applications, automating workflows, and supporting infrastructure. Proficient in JavaScript, Python, React, and CI/CD practices. Adept at reducing inefficiencies, streamlining deployments, and delivering intuitive user experiences. Currently completing a B.S. in Bioinformatics at Arizona State University with a focus on data science and software systems.",
+  "education": [
+    {
+      "degree": "A.S. in Information Technology",
+      "institution": "Pima Community College",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "B.S. in Bioinformatics",
+      "institution": "Arizona State University",
+      "graduation_year": "Expected 2026"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Fullstack Developer (Contract)",
+      "company": "Paira",
+      "start_date": "2020",
+      "end_date": "2022",
+      "bullets": [
+        "Engineered a React Native mobile app and Node.js backend, cutting API response times by 60%",
+        "Automated budgeting workflows, eliminating 80% of manual data entry tasks",
+        "Integrated CI/CD pipelines with Azure DevOps, slashing deployment time by 50%",
+        "Collaborated with designers and QA to ensure 95% feature completion per sprint"
+      ],
+      "technologies": ["React Native", "Node.js", "Azure DevOps", "JavaScript", "MongoDB"]
+    },
+    {
+      "position": "Data Specialist | Python Automation",
+      "company": "Holiday Inn & Suites",
+      "start_date": "2022",
+      "end_date": "2024",
+      "bullets": [
+        "Built Python scripts to automate financial reporting, reducing prep time by 35%",
+        "Developed dashboards and Excel macros to support real-time data visibility",
+        "Optimized business operations and cut costs by 15% through data-driven improvements",
+        "Maintained 99%+ data integrity across high-volume spreadsheets and systems"
+      ],
+      "technologies": ["Python", "Excel VBA", "Pandas", "Google Sheets", "SQL"]
+    },
+    {
+      "position": "Desktop Support Technician | Scripting & Infrastructure Support",
+      "company": "Carvana",
+      "start_date": "2024",
+      "end_date": "Present",
+      "bullets": [
+        "Resolved 200+ support tickets with 98% user satisfaction, improving operational SLAs",
+        "Scripted onboarding automations, reducing provisioning time by 25%",
+        "Authored and standardized SOPs, cutting repeat ticket volume by 18%",
+        "Assisted infrastructure engineers with deployment tasks and network configuration"
+      ],
+      "technologies": ["PowerShell", "Active Directory", "JAMF", "ServiceNow", "Networking"]
+    }
+  ],
+  "skills": {
+    "Languages": ["JavaScript", "Python", "SQL"],
+    "Frameworks": ["React", "React Native", "Node.js", "Flask", "Express"],
+    "Tools": ["Git", "Docker", "Azure DevOps", "CI/CD", "JAMF", "ServiceNow"],
+    "Databases": ["MongoDB", "PostgreSQL"],
+    "Other": ["Automation", "API Development", "Technical Support", "Troubleshooting"]
+  }
+  
+  
+}
